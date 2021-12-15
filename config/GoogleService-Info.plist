@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>314919848349-72mu673m5tmdokat1roip6ho6shfcjm4.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.314919848349-72mu673m5tmdokat1roip6ho6shfcjm4</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDm2tVun_AFeej9BnkSAGYZD7FnbOdfVVY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>314919848349</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.baden.baden</string>
+	<key>PROJECT_ID</key>
+	<string>baden-for-testing</string>
+	<key>STORAGE_BUCKET</key>
+	<string>baden-for-testing.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:314919848349:ios:de5ce9fe767aeb71d84774</string>
+	<key>DATABASE_URL</key>
+	<string>https://baden-for-testing-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

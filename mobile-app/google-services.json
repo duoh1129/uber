@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "314919848349",
+    "firebase_url": "https://baden-for-testing-default-rtdb.firebaseio.com",
+    "project_id": "baden-for-testing",
+    "storage_bucket": "baden-for-testing.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314919848349:android:9d1a69a5e59abcfcd84774",
+        "android_client_info": {
+          "package_name": "com.baden.baden"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "314919848349-6jfu30sirjbfnkvpmskrh4nr06vhv14g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcwfE_3DQWViz2bHGaHyMBC6dFiujLPXg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "314919848349-6jfu30sirjbfnkvpmskrh4nr06vhv14g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
